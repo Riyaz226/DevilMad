@@ -1,0 +1,28 @@
+{
+  "name": "devilmad",
+  "version": "1.0.0",
+  "description": "a simple game website",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Riyaz226/DevilMad.git"
+  },
+  "keywords": [
+    "express",
+    "node"
+  ],
+  "author": "Riyaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Riyaz226/DevilMad/issues"
+  },
+  "homepage": "https://github.com/Riyaz226/DevilMad#readme"
+}
