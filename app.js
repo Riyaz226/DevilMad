@@ -35,6 +35,9 @@ app.get('/x-box',(req,res)=>{
    res.render('series/x-box')
 })
 
+app.get('/end',(req,res)=>{
+   res.render('series/end')
+})
 app.listen(port, ()=>{
     console.log(`app is listening at port ${port}`)
 })
