@@ -39,10 +39,10 @@ app.get('/end',(req,res)=>{
    res.render('series/end')
 })
 
-/*app.listen(process.env.PORT || 4000, function(){
+app.listen(process.env.PORT || 4000, function(){
    console.log('Your node js server is running');
-});*/
+});
 
-app.listen(port, ()=>{
+/*app.listen(port, ()=>{
    console.log(`app is listening at port ${port}`)
-})
+})*/
